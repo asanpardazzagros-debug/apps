@@ -1,4 +1,4 @@
-# @polkadot/apps
+APZ.CHAIN @polkadot/apps
 
 A Portal into the Polkadot and Substrate networks. Provides a view and interaction layer from a browser.
 
