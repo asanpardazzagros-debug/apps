@@ -23,3 +23,4 @@ The actual type definitions you should be familiar with, it is exactly the same 
 2. Run the image build command to generate an inline version via `yarn build:images`
 3. Add your chain to `endpoints/{production, productionRelay, testing, testingRelay*}` as applicable for your deployment
 3. The `ui.color` specifies the chain color, the `ui.logo` (imported from generated), specifies the specific logo
+https://polkadot.js.org/docs/api/start/types.extend
